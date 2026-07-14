@@ -17,6 +17,6 @@
 [<img align="left" alt="Paddy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Paddy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
+[youtube]: https://www.youtube.com/@paddysrepairs
 [instagram]: https://www.instagram.com/paddysrepairs2026/
 [facebook]: https://www.facebook.com/profile.php?id=61587300306263
