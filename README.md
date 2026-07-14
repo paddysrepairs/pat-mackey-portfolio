@@ -6,7 +6,7 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Post-Install Demo and Example Ticket Cycles](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Post-Install Demo and Example Ticket Cycles](https://github.com/paddysrepairs/paddys-repairs-osticket)
   
 
 
