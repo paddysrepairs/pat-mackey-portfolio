@@ -9,7 +9,7 @@
   - [osTicket: Post-Install Demo and Example Ticket Cycles](https://github.com/paddysrepairs/paddys-repairs-osticket)
 
   - <b>How to Install Pokemon TCG Live on Linux! (Written and Video Guide Available)</b>
-    - [Pokemon TCG Live: Installation Demo on Linux] (https://github.com/paddysrepairs/pokemon-tcg-linux-install)
+    - [Pokemon TCG Live: Installation Demo on Linux](https://github.com/paddysrepairs/pokemon-tcg-linux-install)
 
 <h2>🤳Connect with me:</h2>
 
