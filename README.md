@@ -1,4 +1,4 @@
-# pat-mackey-portfolio
+# Pat-Mackey-Portfolio
 <h1>Greetings! My name is Pat Mackey, an aspiring <a href="https://www.linkedin.com/in/paddysrepairs/">IT and Repair Technician</a>🍀</h1>
 
 <img width="500" height="241" alt="Paddys_Repairs_Text_Only" src="https://github.com/user-attachments/assets/acfc9198-6678-4f31-85c2-f97740cf62f7" />
@@ -7,8 +7,9 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Post-Install Demo and Example Ticket Cycles](https://github.com/paddysrepairs/paddys-repairs-osticket)
-  
 
+  - <b>How to Install Pokemon TCG Live on Linux! (Written and Video Guide Available)</b>
+    - [Pokemon TCG Live: Installation Demo on Linux] (https://github.com/paddysrepairs/pokemon-tcg-linux-install)
 
 <h2>🤳Connect with me:</h2>
 
